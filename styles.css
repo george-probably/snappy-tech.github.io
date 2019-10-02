@@ -8,19 +8,30 @@ h1 {
 
 }
 
-ol{
+h2 {
   color: #fff;
+  text-shadow: 2px 2px 5px #000;
+  display: block;
+  padding: 20px;
   font-family: 'Open Sans', sans-serif;
-}
 
-ul {
-  color: #fff;
-  font-family: 'Open Sans', sans-serif;
 }
 
 p {
   color: #fff;
   display: block;
   font-family: 'Open Sans', sans-serif;
+}
 
+.polaroid {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin-left: 50px;
+}
+
+.container {
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px;
+  text-decoration:none;
 }
