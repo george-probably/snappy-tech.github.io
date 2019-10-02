@@ -10,6 +10,15 @@ h1 {
 
 }
 
+ol{
+  font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  list-style-type: square;
+  font-family: 'Open Sans', sans-serif;
+}
+
 p {
   display: block;
   font-family: 'Open Sans', sans-serif;
